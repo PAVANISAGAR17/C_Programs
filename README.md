@@ -6,7 +6,7 @@ __bold__
 _italic_
 ~~strike~~
 
-`inline`
+lokesh `inline` hello
 ```mjfdlejcnhnricyfjkdmdjcn
 cecfrgfvcrf
 rvfcfffffff
